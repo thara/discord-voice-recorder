@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+**/node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+/build/
+/dist/
+/.next/
+/out/
+
+# Testing
+/coverage/
+
+# Environment variables
+.env
+.env.local
+
+# Large data files
+*.mp3
